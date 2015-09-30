@@ -9,6 +9,7 @@ void unknow(int argc,...)
 		p = p + sizeof(int);
 		printf("%s\n",*(char **)p);
 	}
+	printf("just for learn git \n");
 }
 
 int main()
